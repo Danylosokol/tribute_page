@@ -1,87 +1,87 @@
 * {
-  margin: 0;
-  padding: 0;
-  font-family: 'Roboto', sans-serif;
-  color: #333333;
-  font-size: 1.05rem;
-  
+    color: #333333;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.05rem;
+    margin: 0;
+    padding: 0;
 }
 
-body{
-  background-color: #EEEEEE;
+body {
+    background-color: #EEEEEE;
 }
 
-header{
-  text-align: center;
+header {
+    text-align: center;
 }
 
-#title{
-  margin: 2.5rem 0 1rem 0;
-  font-size: 3rem;
-  font-weight: 700;
+#title {
+    font-size: 3rem;
+    font-weight: 700;
+    margin: 2.5rem 0 1rem 0;
 }
 
-header p{
-  font-size: 1.05rem;
-  font-weight: 400;
-  margin-bottom: 1.5rem;
+header p {
+    font-size: 1.05rem;
+    font-weight: 400;
+    margin-bottom: 1.5rem;
 }
 
-#image{
-  display: block;
-  max-width: 100%;
-  height: auto;
-  margin: auto;
+#image {
+    display: block;
+    height: auto;
+    margin: auto;
+    max-width: 100%;
 }
 
-#img-div{
-  width: 95vw;
-  height: auto;
-  margin: 0 auto 0 auto;
-  background-color: white;
+#img-div {
+    background-color: white;
+    height: auto;
+    margin: 0 auto 0 auto;
+    width: 95vw;
 }
 
-#img-caption{
-  text-align: center;
-  font-size: .98rem;
-  padding: 1rem;
+#img-caption {
+    font-size: .98rem;
+    padding: 1rem;
+    text-align: center;
 }
 
-#tribute-info{
-  width: 40vw;
-  margin: 0 auto;
+#tribute-info {
+    margin: 0 auto;
+    width: 40vw;
 }
 
-#tribute-info h2{
-  text-align: center;
-  font-size: 1.4rem;
-  margin: 3rem 0 2.5rem 0;
+#tribute-info h2 {
+    font-size: 1.4rem;
+    margin: 3rem 0 2.5rem 0;
+    text-align: center;
 }
 
-ul{
-  list-style: disc;
-  margin: 1rem 0 3rem 1rem;
+ul {
+    list-style: disc;
+    margin: 1rem 0 3rem 1rem;
 }
 
-li{
-  margin-top: 1rem;
+li {
+    margin-top: 1rem;
 }
 
-blockquote{
-  font-style: italic;
+blockquote {
+    font-style: italic;
 }
 
-footer p, footer a{
-  text-align: center;
-  font-weight: 700;
-  font-size: 1.25rem;
-  margin: 3rem 0 1rem 0;
+footer p,
+footer a {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin: 3rem 0 1rem 0;
+    text-align: center;
 }
 
-footer a:link{
-  color: #0000EE;
+footer a:link {
+    color: #0000EE;
 }
 
-footer a:visited{
-  color: #551A8B;
+footer a:visited {
+    color: #551A8B;
 }
